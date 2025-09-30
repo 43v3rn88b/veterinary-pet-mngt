@@ -103,3 +103,10 @@ and the Spring Boot API will run on http://localhost:8080
 | `admin`  | `admin`  |
 
 > ⚠️ Change credentials in production or connect to a real user database.
+
+### Screenshots
+<img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/a037ac61-e688-4f61-9ccf-80b0db72f7b5" />
+<img width="975" height="474" alt="image" src="https://github.com/user-attachments/assets/f8fcf55e-8b10-45e9-98cf-683c2f3dd55a" />
+<img width="975" height="476" alt="image" src="https://github.com/user-attachments/assets/390f728d-1dc8-4f07-bef7-2aaf9eb7754d" />
+
+
